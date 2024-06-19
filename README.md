@@ -1,4 +1,3 @@
-# pasteleria
 <!DOCTYPE html>
 <html lang="es">
 
